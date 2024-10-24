@@ -5,15 +5,15 @@ Project Description :
 This project analyzes retail sales data to determine revenue, returns, and customer buying trends
 
 Objectives:
-Calculate total revenue
-Track Monthly Sales Performance
-Identify top-selling items and trends by country
-Analyze the return rate of products
+Calculate total revenue,
+track Monthly Sales Performance,
+identify top-selling items and trends by country,
+analyze the return rate of products
 
 Power BI Visualization :
-The key elements in the dashboard include
-Sales by country
-Top products by revenue
-Return Rate Analysis
-Monthly sales performance
-Sales Vs Returns by Country
+the key elements in the dashboard include;
+Sales by country,
+top products by revenue,
+return Rate Analysis,
+monthly sales performance,
+sales Vs Returns by Country
